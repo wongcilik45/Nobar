@@ -1596,6 +1596,39 @@
     "DrmType": "clearkey",
     "DrmLicense": "4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5",
     "HeaderData": null
+  },
+  {
+    "id": 95,
+    "LogoUrl": "https://raw.githubusercontent.com/wongcilik45/Nobar/main/logo/95-onesports.png",
+    "Title": "ONE SPORTS",
+    "Dsc": "",
+    "PosterPortraitUrl": "",
+    "PosterLandscapeUrl": "",
+    "MetaData": "",
+    "MetaDate": "",
+    "StreamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd  ",
+    "RedirectUrl": "",
+    "Referer": "",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+    "DrmType": "clearkey",
+    "DrmLicense": "53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd",
+    "HeaderData": null
+  },
+  {
+    "id": 96,
+    "LogoUrl": "https://raw.githubusercontent.com/wongcilik45/Nobar/main/logo/96-onesports2.png",
+    "Title": "ONE SPORTS+",
+    "Dsc": "",
+    "PosterPortraitUrl": "",
+    "PosterLandscapeUrl": "",
+    "MetaData": "",
+    "MetaDate": "",
+    "StreamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd",
+    "RedirectUrl": "",
+    "Referer": "",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+    "DrmType": "clearkey",
+    "DrmLicense": "322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda",
+    "HeaderData": null
   }
 ]
-
