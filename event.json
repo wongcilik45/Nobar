@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "LogoUrl": "https://example.com/logo1.png",
+    "Title": "Movie Title 1",
+    "Dsc": "Movie Description 1",
+    "PosterPortraitUrl": "https://example.com/poster1.jpg",
+    "PosterLandscapeUrl": "https://example.com/poster1.jpg",
+    "MetaData": "Action, Adventure",
+    "MetaDate": "2024-01-15",
+    "StreamUrl": "https://example.com/stream1.m3u8",
+    "RedirectUrl": "",
+    "Referer": "https://example.com",
+    "UserAgent": "Mozilla/5.0",
+    "DrmType": "WIDEVINE",
+    "DrmLicense": "https://license.example.com",
+    "HeaderData": "key1:value1|key2:value2"
+  },
+  {
+    "id": 2,
+    "LogoUrl": "https://example.com/logo2.png",
+    "Title": "Movie Title 2",
+    "Dsc": "Movie Description 2",
+    "PosterPortraitUrl": "https://example.com/poster1.jpg",
+    "PosterLandscapeUrl": "https://example.com/poster1.jpg",
+    "MetaData": "Drama, Romance",
+    "MetaDate": "2024-01-16",
+    "StreamUrl": "https://example.com/stream2.m3u8",
+    "RedirectUrl": "https://example.com/redirect",
+    "Referer": "https://example.com",
+    "UserAgent": "Mozilla/5.0",
+    "DrmType": null,
+    "DrmLicense": null,
+    "HeaderData": null
+  }
+]
