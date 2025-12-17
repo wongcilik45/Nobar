@@ -111,8 +111,8 @@
     "MetaData": "Sutradara: Takehiko Shinjo",
     "MetaDate": "Release: 10 Jan 2025",
     "StreamUrl": "https://cloud.hownetwork.xyz/xxx/cU5_YyEYDjJvY0d-dh0BHQA8BREdJkd2djBCe3II/26/480.m3u8",
-    "RedirectUrl": "https://cloud.hownetwork.xyz/video.php?id=cU5_YyEYDjJvY0d-dh0BHQA8BREdJkd2djBCe3II",
-    "Referer": "",
+    "RedirectUrl": "",
+    "Referer": "https://cloud.hownetwork.xyz/video.php?id=cU5_YyEYDjJvY0d-dh0BHQA8BREdJkd2djBCe3II",
     "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0",
     "DrmType": null,
     "DrmLicense": null,
@@ -255,3 +255,4 @@
     "HeaderData": null
   }
 ]
+
