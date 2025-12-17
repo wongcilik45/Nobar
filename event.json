@@ -1,22 +1,5 @@
 [
   {
-    "id": 0,
-    "LogoUrl": "",
-    "Title": "Badminton",
-    "Dsc": "BWF Worlds Championship",
-    "PosterPortraitUrl": "",
-    "PosterLandscapeUrl": "https://thumbor.prod.vidiocdn.com/G5SuhBoZu0tcK3E9dpnriXRVJyo=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/11123/bwf-2025-5e38f5.jpg",
-    "MetaData": "BWF Worlds Championship",
-    "MetaDate": "",
-    "StreamUrl": "https://fhlsport302.tbhmp205ycp5.work/token-Ik9ymeGSKvKGvmR7w%2FY6yDiElMDa1nrjayz5lKZPRGKmt7HLHUFYD5QtqhBWXUwfWX%2FfyylhlPl0dZVOUEtO7Yk8GE2wNIQ%3Da/cfall/s2001/v3b/3s430786nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_636531.m3u8",
-    "RedirectUrl": "",
-    "Referer": "https://morgan.h3eaulperhapsfuzkhurried.shop/",
-    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
-    "DrmType": null,
-    "DrmLicense": null,
-    "HeaderData": null
-  },
-  {
     "id": 1,
     "LogoUrl": "",
     "Title": "Sea Games 2025",
@@ -102,3 +85,4 @@
     "HeaderData": null
   }
 ]
+
